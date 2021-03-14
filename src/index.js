@@ -44,7 +44,7 @@ export default function App() {
                 minimumTrackTintColor="#FF0000"
                 maximumTrackTintColor="#000"
                 value={size}                   
-                onValueChange={ (valor) => setSize(valor.toFixed(0)) }
+                onValueChange={ (valor) => setSize(parseFloat(valor.toFixed(0))) }
                 />
             </View>
             <TouchableOpacity style={styles.button} onPress={generatePass}>
