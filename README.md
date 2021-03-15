@@ -46,16 +46,18 @@ yarn android
 
 Ao abrir o aplicativo, o numero de caracteres aberto como default é 10. Atraves do Slider é possivel escolher a quanditidade de caracter a ser gerado a senha.
 
-[Tela Principal](SandroFrazaoS.github.com/repository/img/Tela_Inicial.png)
+![1][tela1]
 
 Apos selecionar o numero de caracter desejado clicar no botão gerar senha.
 
-[Gerando Senha](username.github.com/repository/img/Tela_GeraSenha.png)
+![2][tela2]
 
 Para copiar a senha clique no campo e segure por alguns minutos.
 
-[Copiando Senha](https://github.com/SandroFrazaoS/app-gerador/blob/main/img/CopiaSenha.png)
+![3][tela3]
 
-# Layout do Projeto
 
-[Layout](username.github.com/repository/img/rn-layout-1.png)
+
+[tela1]: Tela_Inicial.png
+[tela2]: Tela_GeraSenha.png
+[tela3]: CopiaSenha.png
