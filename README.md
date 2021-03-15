@@ -54,7 +54,7 @@ Apos selecionar o numero de caracter desejado clicar no botão gerar senha.
 
 Para copiar a senha clique no campo e segure por alguns minutos.
 
-[Copiando Senha](username.github.com/repository/img/CopiaSenha.png)
+[Copiando Senha](https://github.com/SandroFrazaoS/app-gerador/blob/main/img/CopiaSenha.png)
 
 # Layout do Projeto
 
