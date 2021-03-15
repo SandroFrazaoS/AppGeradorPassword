@@ -46,7 +46,7 @@ yarn android
 
 Ao abrir o aplicativo, o numero de caracteres aberto como default é 10. Atraves do Slider é possivel escolher a quanditidade de caracter a ser gerado a senha.
 
-[Tela Principal](username.github.com/repository/img/Tela_Inicial.png)
+[Tela Principal](SandroFrazaoS.github.com/repository/img/Tela_Inicial.png)
 
 Apos selecionar o numero de caracter desejado clicar no botão gerar senha.
 
